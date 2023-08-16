@@ -61,11 +61,9 @@ Students will be required to prepare a publication quality manuscript in one of 
 
 A full manuscript should follow the format of an academic journal article: introduction, background and theory, hypotheses to be examined, data and methods used to test the hypotheses, discussion of results, and conclusion. For students who lack the methodological preparation to complete the analysis, a research proposal will be substituted for a full manuscript draft. The format should be the same; however, students will instead describe the research design and data they would use to test the theoretical propositions made in their research proposal, the methods they would use to analyze the data, and articulate how and why such research would contribute to the literature of their chosen proposal topic. Research proposals should use either extant data, originally collected administrative or survey data, or mixed methods that incorporate focus groups, interviews, etc. alongside survey or administrative data.
 
-Pre-writing tasks. To ensure students are on track, students are required to submit a two-page summary of their proposed paper by **October 11th** at midnight via Brightspace. The summary should include: a clear summary of the theories used to form hypotheses in the paper, the research questions the paper seeks to answer, a clear summary of the data and research design that will be used, and a preliminary list of the literature that will inform the paper. I will not accept late submissions of summaries. I will return summaries with feedback within 7 days after submission.
-
 Formatting. There is no length requirement, but papers should be 20-30 pages excluding tables, figures, and references. Students should use APA formatting for their citations.
 
-Submission of papers. The first draft of the final paper will be submitted on November 14th by midnight through Brightspace. Note that this is two weeks before the final class. Each student will review two of their classmates' papers and draft a referee report, due to the author and via Blackboard by midnight on November 23rd. Students will then 1) edit their paper in response to the referee reports, and 2) prepare a response document that describes how their revisions address each reviewer comment or, if no edit was made, explains why. Both the response document and revised final paper will be due by Midnight December 9th on Blackboard.
+The first draft of the final paper will be submitted on November 14th by midnight through Brightspace. Note that this is two weeks before the final class. Each student will review two of their classmates' papers and draft a referee report, due to the author and via Blackboard by midnight on November 23rd. Students will then 1) edit their paper in response to the referee reports, and 2) prepare a response document that describes how their revisions address each reviewer comment or, if no edit was made, explains why. Both the response document and revised final paper will be due by Midnight December 9th on Blackboard.
 
 Late assignments. Late work will not be accepted and students who turn in work late will receive no credit.
 
@@ -99,16 +97,28 @@ Key:
 | 9/26  |             Democracy and Public Administration              |  |                           📖 Redford <br/> 📖 Yates <br/> 📖 Putnam <br/> 📖 Borins <br/> 📄 Waldo <br/>  📄 Golembiewski < br/> 📄 Kirlin <br/> 📄 Denhardt & Denhardt (2000)                     |
 | 10/3  |                         Organized Interests and the Political Economy                         |  |              📖 Downs <br/> 📖 Olson <br/> 📖 Niskanen <br/> 📖 Lowi <br/> 📖 Moe (1980) <br/> 📖 Rourke <br/> 📖 Einstein, Glick, & Palmer             |
 | 10/10 |                 Fall Break                  |             |                                                                                        |
-| 10/17 |                  Public Organizations: Role, Responsibility, and Power, Part I                   |         |      📖 West <br/> 📖 Ostrom <br/> 📖 Goodsell <br/> 📄 Moe (1989)                           |
+| 10/17 |                  Public Organizations: Role, Responsibility, and Power, Part I                   |    [📅](#outline)     |      📖 West <br/> 📖 Ostrom <br/> 📖 Goodsell <br/> 📄 Moe (1989)                           |
 | 10/24 | Public Organizations: Role, Responsibility, and Power, Part II |          |                  📖 Aberbach & Rockman <br/> 📖 Brehm & Gates <br/> 📖 Carpenter <br/> 📖 Peters <br/> 📖 Herd & Moynihan                   |
 | 10/31  |        Political Control of the Bureaucracy         |   |  📄 McCubbins, Noll, & Weingast (1987) <br/> 📄 Calvert, McCubbins, & Weingast (1989) <br/> 📄 Wood & Cook <br/> 📄 Banks & Weingast <br/> 📄 Moe (1995) <br/> 📄 Waterman, Rouse, & Wright <br/> 📄 Balla <br/> 📄 Huber, Shipman, & Pfahler <br/> 📄 Moe (2006)                                                   |
 | 11/7 |                     The "Public" in Public Administration       |  |      📖 Kettle <br/> 📖 Meier & O'Toole <br/> 📄 Appleby <br/> 📄 Mintzberg <br/> 📄 Box et al. <br/> 📄 Adams <br/> 📄 Bingham, Nabatchi, & O' Leary <br/> 📄 Boyte <br/> 📄 Berry <br/> 📄 Bradbury & Kellough       |
-| 11/14 |             What is Public? What is Private?             |             |     📖 Seidman <br/> 📖 Moore <br/> 📖 Bozeman (2007) <br/> 📖 Frederickson (2010)  <br/> 📄 Stone & Ostrower                                         |
+| 11/14 |             What is Public? What is Private?             |      [📅](#draft1)       |     📖 Seidman <br/> 📖 Moore <br/> 📖 Bozeman (2007) <br/> 📖 Frederickson (2010)  <br/> 📄 Stone & Ostrower                                         |
 | 11/21 |                         Thanksgiving Break                          |             |                                                                                        |
-| 11/28 |             Public Administrators as Public Servants             |             |     📖 Mosher <br/> 📖 Frederickson (1997) <br/> 📖 Rohr (2002) <br/> 📖 Light <br/> 📄 Perry & Wise <br/> 📄 Stivers <br/> 📄 DiIulio & DiIulio <br/> 📄 Stever                                         |
-| 12/9 |                           Final Paper Turn-In                           |     📅      |                                                                                        |
+| 11/28 |             Public Administrators as Public Servants             |       [📅](#reviews)      |     📖 Mosher <br/> 📖 Frederickson (1997) <br/> 📖 Rohr (2002) <br/> 📖 Light <br/> 📄 Perry & Wise <br/> 📄 Stivers <br/> 📄 DiIulio & DiIulio <br/> 📄 Stever                                         |
+| 12/9 |                           Final Paper Turn-In                           |     [📅](#finalpaper)      |                                                                                        |
 
 
+### Final Paper Assignments
+#### Outline {#outline}
+To ensure students are on track, students are required to submit a two-page summary of their proposed paper by **October 17th** at midnight via Brightspace. The summary should include: a clear summary of the theories used to form hypotheses in the paper, the research questions the paper seeks to answer, a clear summary of the data and research design that will be used, and a preliminary list of the literature that will inform the paper. I will not accept late submissions of summaries. I will return summaries with feedback within 7 days after submission.
+
+#### First Draft Due {#draft1}
+The first draft of the final paper will be submitted on November 14th by midnight through Brightspace. Note that this is two weeks before the final class. Each student will have two peer reviewers assigned to their papers. Reviewers will prepare referee reports for the author, which will be shared directly with authors and submitted to Brightspace.
+
+#### Reviews Due {#reviews}
+Submit directly to author and on Brightspace. Use referee reports to integrate feedback and prepare a response to each point raised by the peer reviewers. The response document will be submitted alongside final papers.
+
+#### Final Paper Due {#finalpaper}
+Submit final paper and response to reviewers document on Brightspace.
 
 ## Class Policies
 
