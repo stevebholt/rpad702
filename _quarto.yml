@@ -11,6 +11,8 @@ website:
         file: index.qmd
       - text: "Syllabus"
         file: syllabus702.qmd
+      - text: "Book List"
+        file: booklist.qmd
 
 format:
   html:
