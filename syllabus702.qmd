@@ -92,21 +92,23 @@ Key:
 | Date  |                                Topic                                | Assignments |                                        Readings                                        |
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | 8/22  |                           Intro to course                           |             |                                                                                        |
-| 8/29  |                           Policy Process                            |             |                             📄 Forsythe & Boyd Memo 2 & 3                              |
-|  9/5  |                Foundations of Public Administration                 |     ✅      |                       📄 Wilson <br/> 📄 Weber <br/> 📄 Kaufman                        |
-| 9/11  |                           Accountability                            |     ✅      |                 📄 Friedrich <br/> 📄 Finer <br/> 📄 Romzek & Dubnick                  |
-| 9/18  |              Decision-Making and Public Participation               | ✅ <br/> 👥 | 📖 Chapter 5 <br/> 📄 Eden & Ackerman <br/> 📄 Fung <br/> 📄 Einstein, Palmer, & Glick |
-| 9/25  |             Decision-Making in a Political Environment              | ✅ <br/> 👥 |                           📖 Chapter 1 & 3 <br/> 📄 Collins                            |
-| 10/2  |                         Equity and Fairness                         | ✅ <br/> 👥 |              📄 Sandel <br/> 📄 Riccucci Chapter 2 & 3 <br/> 📄 Rothstein              |
-| 10/11 |                 Essay 1 Assignment and Preparation                  |             |                                                                                        |
-| 10/16 |             Direct Government: Street-level Bureaucrats             | ✅ <br/> 👥 |               📄 Lipsky <br/> 📄 Maynard-Moody & Musheno <br/> 📄 Pynes                |
-| 10/23 |                  Government by Proxy: Contracting                   |     ✅      |                          📄 Kelman <br/> 📄 Brown & Potowski                           |
-| 10/30 | Government by Proxy: Networks, Non-profits, and Delivering Services |     ✅      |                  📄 Milward & Provan <br/> 📄 Winston <br/> 📄 Young                   |
-| 11/6  |         Essay 1 Turn In; Essay 2 Assignment and Preparation         | 👥 <br/> 📅 |                                                                                        |
-| 11/13 |                     Working Across Governments                      | ✅ <br/> 👥 |      📄 Krane, Ebdon & Bartle <br/> 📄 Wise <br/> 📄 Weissert, Pollack, & Nathan       |
-| 11/20 |                         Thanksgiving Break                          |             |                                                                                        |
-| 11/27 |             Final Review & Essay 2 Meetings with Groups             |             |                                                                                        |
-| 12/11 |                           Essay 2 Turn In                           |     📅      |                                                                                        |
+| 8/29  |                          Theory and Craft in Public Administration                            |             |                             📄 Whetten <br/>  📄 Sutton and Staw <br/> 📄 Merton <br/> 📄 Bozeman <br/> 📄 Dubnick <br/> 📄 Kelman et al. <br/> 📄 Davis and Stazyk <br/> 📄 Denhardt       |
+|  9/5  |                The Study of Politics and Administration                 |           |                       📖 Sandel <br/> 📖 Dewey <br/> 📖 Durant <br/> 📖 Goodnow <br/> 📖 March and Olsen (1989) <br/> 📄  Wilson <br/> 📄 Friedrich <br/> 📄 Finer <br/> 📄 Long                     |
+| 9/12  |                           The Constitutional Basis of Public Administration, Part I                            |          |                 📖 Skowronek <br/> 📖 Rohr <br/> 📖 Bartelli and Lynn <br/> 📖 Peterson <br/> 📖 Resh <br/> 📖 Feeley and Rubin                  |
+| 9/19  |              The Constitutional Basis of Public Administration, Part II               |  | 📄 Rosenbloom <br/> 📄 O'Toole <br/> 📄 Heady <br/> 📄 Green <br/> 📄 Moe and Gilmour <br/> 📄 Wise and O'Leary <br/> 📄 Catlaw |
+| 9/26  |             Democracy and Public Administration              |  |                           📖 Redford <br/> 📖 Yates <br/> 📖 Putnam <br/> 📖 Borins <br/> 📄 Waldo <br/>  📄 Golembiewski < br/> 📄 Kirlin <br/> 📄 Denhardt & Denhardt (2000)                     |
+| 10/3  |                         Organized Interests and the Political Economy                         |  |              📖 Downs <br/> 📖 Olson <br/> 📖 Niskanen <br/> 📖 Lowi <br/> 📖 Moe (1980) <br/> 📖 Rourke <br/> 📖 Einstein, Glick, & Palmer             |
+| 10/10 |                 Fall Break                  |             |                                                                                        |
+| 10/17 |                  Public Organizations: Role, Responsibility, and Power, Part I                   |         |      📖 West <br/> 📖 Ostrom <br/> 📖 Goodsell <br/> 📄 Moe (1989)                           |
+| 10/24 | Public Organizations: Role, Responsibility, and Power, Part II |          |                  📖 Aberbach & Rockman <br/> 📖 Brehm & Gates <br/> 📖 Carpenter <br/> 📖 Peters <br/> 📖 Herd & Moynihan                   |
+| 10/31  |        Political Control of the Bureaucracy         |   |  📄 McCubbins, Noll, & Weingast (1987) <br/> 📄 Calvert, McCubbins, & Weingast (1989) <br/> 📄 Wood & Cook <br/> 📄 Banks & Weingast <br/> 📄 Moe (1995) <br/> 📄 Waterman, Rouse, & Wright <br/> 📄 Balla <br/> 📄 Huber, Shipman, & Pfahler <br/> 📄 Moe (2006)                                                   |
+| 11/7 |                     The "Public" in Public Administration       |  |      📖 Kettle <br/> 📖 Meier & O'Toole <br/> 📄 Appleby <br/> 📄 Mintzberg <br/> 📄 Box et al. <br/> 📄 Adams <br/> 📄 Bingham, Nabatchi, & O' Leary <br/> 📄 Boyte <br/> 📄 Berry <br/> 📄 Bradbury & Kellough       |
+| 11/14 |             What is Public? What is Private?             |             |     📖 Seidman <br/> 📖 Moore <br/> 📖 Bozeman (2007) <br/> 📖 Frederickson (2010)  <br/> 📄 Stone & Ostrower                                         |
+| 11/21 |                         Thanksgiving Break                          |             |                                                                                        |
+| 11/28 |             Public Administrators as Public Servants             |             |     📖 Mosher <br/> 📖 Frederickson (1997) <br/> 📖 Rohr (2002) <br/> 📖 Light <br/> 📄 Perry & Wise <br/> 📄 Stivers <br/> 📄 DiIulio & DiIulio <br/> 📄 Stever                                         |
+| 12/9 |                           Final Paper Turn-In                           |     📅      |                                                                                        |
+
+
 
 ## Class Policies
 
