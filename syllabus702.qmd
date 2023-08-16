@@ -63,12 +63,10 @@ A full manuscript should follow the format of an academic journal article: intro
 
 Formatting. There is no length requirement, but papers should be 20-30 pages excluding tables, figures, and references. Students should use APA formatting for their citations.
 
-The first draft of the final paper will be submitted on November 14th by midnight through Brightspace. Note that this is two weeks before the final class. Each student will review two of their classmates' papers and draft a referee report, due to the author and via Blackboard by midnight on November 23rd. Students will then 1) edit their paper in response to the referee reports, and 2) prepare a response document that describes how their revisions address each reviewer comment or, if no edit was made, explains why. Both the response document and revised final paper will be due by Midnight December 9th on Blackboard.
-
 Late assignments. Late work will not be accepted and students who turn in work late will receive no credit.
 
 ### Discussion Leaders
-Each week, students will be assigned a reading to summarize and lead the class discussion concerning that reading. When leading discussion for a reading, students should prepare one-page, single-spaced summaries of the reading, verbally summarize the reading in class, identify points the student found interesting, and identify potential issues, limitations, or gaps in the ideas presented in the readings. **The summaries are to be emailed to the professor the day before class.** The professor will post the summaries to Blackboard to facilitate notes sharing across the class. 
+Each week, students will be assigned a reading to summarize and lead the class discussion concerning that reading. When leading discussion for a reading, students should prepare one-page, single-spaced summaries of the reading, verbally summarize the reading in class, identify points the student found interesting, and identify potential issues, limitations, or gaps in the ideas presented in the readings. **The summaries are to be emailed to the professor the day before class.** The professor will post the summaries to Brightspace to facilitate notes sharing across the class. 
 
 ::: callout-tip
 If all students take good, useful notes, this will be a highly valuable resource for recalling, retaining, and studying the core ideas and concepts covered in the class.
