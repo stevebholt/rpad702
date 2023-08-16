@@ -2,3 +2,43 @@
 title: "Syllabus"
 ---
 
+# Scholarly Foundations of Politics and Administration
+
+## RPAD 702
+
+👨‍🏫: Stephen Holt, Ph.D.\
+📅: Tuesdays, 4:30 pm - 8:10 pm, Husted 013\
+📧: sbholt\@albany.edu\
+🏫: Wednesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min); in-person in Milne 324 or online in [GatherTown](https://app.gather.town/app/REBbcSYb3BTtxRhY/ussalbany).[^1]\
+☎️: 518-442-3309
+
+[^1]: Password is RockCollege. Feel free to also use as a meeting spot with your groups - the rooms are private meeting rooms (this will make sense when you use it) and the space itself has a 25 person capacity.
+
+## Course Description
+This course explores the complex interplay between democracy, politics, and administration in the United States. Our aim is to begin developing an understanding of the contemporary role public organizations play in the political process and broader democratic context. To this end, we will examine the major intellectual and constitutional origins and subsequent evolution of American government and public administration. We will also explore various theories that (1) inform our understanding of the roles and responsibilities of modern public organizations and administrators, and (2) explain current governance arrangements.
+
+By the end of this course, students should have:
+
+- Gained a basic understanding of the central debates surrounding the legal, political, and civil/social dimensions of U.S. public administration,
+- Acquired the knowledge necessary to think critically about the role of U.S. public administration in the political process and contemporary society, and
+- Learned how to apply various theoretical lenses when tackling political-administrative issues.
+
+## Required Text
+Throughout the course, students will be expected to read several books. You can find the complete list of required and recommended books [here](booklist.qmd). The rest will be shared by Zotero.
+
+## Required Software
+Zotero - Zotero is a free platform for organizing and sharing academic work and it is how readings will be distributed to the class. You can download the app [here](https://www.zotero.org/download/). I suggest also downloading the browser connector for whatever browser you use - it helps save a dramatic amount of time when conducting a literature review. During the first week of classes you will receive an invitation to join the class Zotero library. If you do not receive one, please email the professor. I provide an introduction to Zotero and the features most applicable to this class in the embedded video below.
+
+::: callout-note
+There are a variety of citation organizer software options out there for researchers to use and, having experimented with most of them, Zotero is by far the best. It is *free*; Open Source; designed and developed by researchers; and governed as a non-profit to protect the integrity and accessibility of the software.
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zR4HYByFnJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+::: callout-tip
+## Tip on Zotero
+
+When you receive an announcement that the group invitations for the class library have been sent, go to the Zotero.org website, login to your account, and click the groups tab. You should see RPAD 500 with a red button that says join. Click join. In the Zotero app, click the green refresh circle in the top right and the class library should appear.
+:::
