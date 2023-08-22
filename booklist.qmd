@@ -3,7 +3,7 @@ title: "Book List"
 ---
 
 ## Required Books
-### The Study of Politics and Administration
+### The Study of Politics and Administration {#politics-admin}
 
 - Michael J. Sandel. 2009. *Justice: What’s the Right Thing to Do?* New York, NY: Farrar, Straus, and Giroux.
 - John Dewey. 1954. *The Public and Its Problems.* Athens, OH: Swallow Press Books.
@@ -11,7 +11,7 @@ title: "Book List"
 - Frank J. Goodnow. 1900. *Politics and Administration.* New York, NY: Macmillan.
 - James G. March and Johan P. Olsen. 1989. *Rediscovering Institutions: The Organizational Basis of Politics.* New York, NY: The Free Press.
 
-### The Constitutional Basis of Public Administration, Part I
+### The Constitutional Basis of Public Administration, Part I {#constitution1}
 
 - Stephen Skowronek. 1982. *Building a New American State: The Expansion of National Administrative Capacities, 1877-1920.* New York, NY: Cambridge University Press.
 - John A. Rohr. 1986. *To Run a Constitution: The Legitimacy of the Administrative State.* Lawrence, KS: University of Kansas Press.
@@ -20,14 +20,14 @@ title: "Book List"
 - William G. Resh. 2015. *Rethinking the Administrative Presidency: Trust, Intellectual Capital, and Appointee-Careerist Relations in the George W. Bush Administration.* Baltimore, MD: Johns Hopkins University Press.
 - Malcom M. Feeley and Edward L. Rubin. 2000. *Judicial Policy Making and the Modern State: How the Courts Reformed America’s Prisons.* Cambridge, UK: Cambridge University Press.
 
-### Democracy and Public Administration
+### Democracy and Public Administration {#democracy-admin}
 
 - Emmette S. Redford. 1969. *Democracy in the Administrative State.* New York, NY: Oxford University Press.
 - Douglas Yates. 1987. *Bureaucratic Democracy: The Search for Democracy and Efficiency in American Government.* Cambridge, MA: Harvard University Press.
 - Robert D. Putnam. 2000. *Bowling Alone: The Collapse and Revival of American Community.* New York, NY: Simon & Schuster Paperbacks.
 - Sandford Borins. 2011. *Governing fables: Learning from public sector narratives*. IAP.
 
-### Organized Interests and the Political Economy
+### Organized Interests and the Political Economy {#political-economy}
 
 - Anthony Downs. 1957. *An Economic Theory of Democracy.* New York, NY: Harper & Row.
 - Mancur Olson. 1965. *The Logic of Collective Action: Public Goods and the Theory of Groups.* Cambridge, MA: Harvard University Press.
@@ -37,13 +37,13 @@ title: "Book List"
 - Francis E. Rourke. 1984. *Bureaucracy, Politics, and Public Policy.* Boston, MA: Little, Brown and Company.
 - Katherine Levine Einstein, David M. Glick, and Maxwell Palmer. 2019. *Neighborhood Defenders: Participatory Politics and America's Housing Crisis*. Cambridge University Press.
 
-### Public Organizations: Role, Responsibility, and Power, Part I
+### Public Organizations: Role, Responsibility, and Power, Part I {#responsibility1}
 
 - William F. West. 1985. *Administrative Rulemaking: Politics and Processes.* Westport, CT: Greenwood Press.
 - Elinor Ostrom. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.* New York, NY: Cambridge University Press.
 - Charles T. Goodsell. 1983. *The Case for Bureaucracy: A Public Administration Polemic.* Chatham, NJ: Chatham House Publishers.
 
-### Public Organizations: Role, Responsibility, and Power, Part II
+### Public Organizations: Role, Responsibility, and Power, Part II {#responsibility2}
 
 - Joel D. Aberbach and Bert A. Rockman. 2000. *In the Web of Politics: Three Decades of the U.S. Federal Executive.* Washington, DC: Brookings Institution Press.
 - John Brehm and Scott Gates. 2002. *Working, Shirking, and Sabotage: Bureaucratic Response to a Democratic Public.* Ann Arbor, MI: University of Michigan Press.
@@ -51,19 +51,19 @@ title: "Book List"
 - Guy Peters. 2010. *The Politics of Bureaucracy: An Introduction to Comparative Public Administration.* New York, NY: Routledge.
 - Herd, P. and Moynihan, D.P., 2019. *Administrative Burden: Policymaking by Other Means.* Russell Sage Foundation.
 
-### The “Public” in Public Administration
+### The “Public” in Public Administration {#public1}
 
 - Donald F. Kettl. 2015. *The Transformation of Governance: Public Administration for the Twenty-First Century.* Baltimore, MD: Johns Hopkins University Press.
 - Kenneth J. Meier and Laurence O’Toole, Jr. 2006. *Bureaucracy in a Democratic State: A Governance Perspective.* Baltimore, MD: Johns Hopkins University Press.
 
-### What is Public? What is Private?
+### What is Public? What is Private? {#public2}
 
 - Harold Seidman. 1998. *Politics, Position, and Power: The Dynamics of Federal Organization.* New York, NY: Oxford University Press.
 - Mark H. Moore. 1995. *Creating Public Value: Strategic Management in Government.* Cambridge, MA: Harvard University Press.
 - Barry Bozeman. 2007. *Public Values and Public Interest: Counterbalancing Economic Individualism.* Washington, DC: Georgetown University Press.
 - George Frederickson. 2010. *Social Equity and Public Administration: Origins, Developments, and Applications.* Armonk, NY: M.E. Sharpe.
 
-### Public Administrators as Public Servants
+### Public Administrators as Public Servants {#service}
 
 - Frederick C. Mosher. 1968. *Democracy and the Public Service.* New York, NY: Oxford University Press.
 - H. George Frederickson. 1997. *The Spirit of Public Administration.* San Francisco, CA: Jossey-Bass.
