@@ -13,6 +13,8 @@ website:
         file: syllabus702.qmd
       - text: "Book List"
         file: booklist.qmd
+      - text: "Assignment"
+        file: assignments.qmd
 
 format:
   html:
