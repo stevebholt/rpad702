@@ -15,18 +15,21 @@ title: "Syllabus"
 [^1]: Password is RockCollege. Feel free to also use as a meeting spot with your groups - the rooms are private meeting rooms (this will make sense when you use it) and the space itself has a 25 person capacity.
 
 ## Course Description
+
 This course explores the complex interplay between democracy, politics, and administration in the United States. Our aim is to begin developing an understanding of the contemporary role public organizations play in the political process and broader democratic context. To this end, we will examine the major intellectual and constitutional origins and subsequent evolution of American government and public administration. We will also explore various theories that (1) inform our understanding of the roles and responsibilities of modern public organizations and administrators, and (2) explain current governance arrangements.
 
 By the end of this course, students should have:
 
-- Gained a basic understanding of the central debates surrounding the legal, political, and civil/social dimensions of U.S. public administration,
-- Acquired the knowledge necessary to think critically about the role of U.S. public administration in the political process and contemporary society, and
-- Learned how to apply various theoretical lenses when tackling political-administrative issues.
+-   Gained a basic understanding of the central debates surrounding the legal, political, and civil/social dimensions of U.S. public administration,
+-   Acquired the knowledge necessary to think critically about the role of U.S. public administration in the political process and contemporary society, and
+-   Learned how to apply various theoretical lenses when tackling political-administrative issues.
 
 ## Required Text
+
 Throughout the course, students will be expected to read several books. You can find the complete list of required and recommended books [here](booklist.qmd). The rest will be shared by Zotero.
 
 ## Required Software
+
 Zotero - Zotero is a free platform for organizing and sharing academic work and it is how readings will be distributed to the class. You can download the app [here](https://www.zotero.org/download/). I suggest also downloading the browser connector for whatever browser you use - it helps save a dramatic amount of time when conducting a literature review. During the first week of classes you will receive an invitation to join the class Zotero library. If you do not receive one, please email the professor. I provide an introduction to Zotero and the features most applicable to this class in the embedded video below.
 
 ::: callout-note
@@ -44,19 +47,22 @@ When you receive an announcement that the group invitations for the class librar
 :::
 
 ## Assingments
+
 ### Overview
+
 The following assignments will form the basis of your grade in this course:
 
-- Final Paper (70\% of final grade)
-- Paper proposal (15\% of final grade)
-- Discussion leader (10\% of final grade)
-- Participation (5\% of final grade)
+-   Final Paper (70% of final grade)
+-   Paper proposal (15% of final grade)
+-   Discussion leader (10% of final grade)
+-   Participation (5% of final grade)
 
 ::: callout-note
 All assignments will be turned in via Brightspace.
 :::
 
 ### Final Paper
+
 Students will be required to prepare a literature review in response to a broad question about a long-standing topic in the field of public administration or public policy. A bank of questions will be provided and students will select one. They will prepare a summary of the history of the topic, describe key debates, summarize key literature, trace how the understanding of the topic has evolved over time, and summarize the current state of understanding of the topic today. When discussing literature, students will also describe the data and designs used in the literature and identify gaps given the rigor of extant research.
 
 A full manuscript should follow the format of an academic journal article without empirical analysis: introduction, background and theory, and conclusion.
@@ -66,16 +72,19 @@ Formatting. There is no length requirement, but papers should be 20-30 pages exc
 Late assignments. Late work will not be accepted and students who turn in work late will receive no credit.
 
 ### Discussion Leaders
-Each week, students will be assigned a reading to summarize and lead the class discussion concerning that reading. When leading discussion for a reading, students should prepare one-page, single-spaced summaries of the reading and a short slide deck to verbally summarize the reading in a class presentation. The summary and presentation should identify points the student found interesting, and identify potential issues, limitations, or gaps in the ideas presented in the readings. **The summaries are to be emailed to the professor the day before class.** The professor will post the summaries to Brightspace to facilitate notes sharing across the class. 
+
+Each week, students will be assigned a reading to summarize and lead the class discussion concerning that reading. When leading discussion for a reading, students should prepare one-page, single-spaced summaries of the reading and a short slide deck to verbally summarize the reading in a class presentation. The summary and presentation should identify points the student found interesting, and identify potential issues, limitations, or gaps in the ideas presented in the readings. **The summaries are to be emailed to the professor the day before class.** The professor will post the summaries to Brightspace to facilitate notes sharing across the class.
 
 ::: callout-tip
 If all students take good, useful notes, this will be a highly valuable resource for recalling, retaining, and studying the core ideas and concepts covered in the class. They can also be shared for aiding one another in preparing a literature review.
 :::
 
 ### Participation
-A big part of learning comes from class discussion and participation in class activities. You can do neither if you do not attend class. Attendance will be tracked and points will be subtracted for absences not cleared with me ahead of time. In addition to attendance, sustained and regular contributions to class discussion will be factored into the class participation grade for the semester. Note that while participation only affects 5\% of your final grade, it can mean a  difference of a full letter in the grade you receive. In education, as with most things in life, what you get out of an act is a function of what you put into that act. Consider this my small way of nudging you towards getting all you can out of this class.
+
+A big part of learning comes from class discussion and participation in class activities. You can do neither if you do not attend class. Attendance will be tracked and points will be subtracted for absences not cleared with me ahead of time. In addition to attendance, sustained and regular contributions to class discussion will be factored into the class participation grade for the semester. Note that while participation only affects 5% of your final grade, it can mean a difference of a full letter in the grade you receive. In education, as with most things in life, what you get out of an act is a function of what you put into that act. Consider this my small way of nudging you towards getting all you can out of this class.
 
 ## Course Schedule
+
 Key:
 
 | Symbol | Meaning                                                            |
@@ -85,37 +94,41 @@ Key:
 |  📖:   | Reading is from required text (by author last name)                |
 |  📄:   | Reading is from an article/chapter on Zotero (by author last name) |
 
-| Date  |                                Topic                                | Assignments |                                        Readings                                        |
+| Date  |                                             Topic                                              |    Assignments    |                                                                                                                             Readings                                                                                                                             |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| 8/22  |                           Intro to course                           |             |                                                                                        |
-| 8/29  |                          Theory and Craft in Public Administration                            |             |                             📄 Whetten <br/>  📄 Sutton and Staw <br/> 📄 Merton <br/> 📄 Bozeman <br/> 📄 Dubnick <br/> 📄 Kelman et al. <br/> 📄 Davis and Stazyk <br/> 📄 Denhardt       |
-|  9/5  |                [The Study of Politics and Administration](booklist.qmd#politics-admin)                 |           |                       📖 Sandel <br/> 📖 Dewey <br/> 📖 Durant <br/> 📖 Goodnow <br/> 📖 March and Olsen (1989) <br/> 📄  Wilson <br/> 📄 Friedrich <br/> 📄 Finer <br/> 📄 Long                     |
-| 9/12  |                           [The Constitutional Basis of Public Administration, Part I](booklist.qmd#constitution1)                            |          |                 📖 Skowronek <br/> 📖 Rohr <br/> 📖 Bartelli and Lynn <br/> 📖 Peterson <br/> 📖 Resh <br/> 📖 Feeley and Rubin                  |
-| 9/19  |              The Constitutional Basis of Public Administration, Part II               |  | 📄 Rosenbloom <br/> 📄 O'Toole <br/> 📄 Heady <br/> 📄 Green <br/> 📄 Moe and Gilmour <br/> 📄 Wise and O'Leary <br/> 📄 Catlaw |
-| 9/26  |             [Democracy and Public Administration](booklist.qmd#democracy-admin)              |  |                           📖 Redford <br/> 📖 Yates <br/> 📖 Putnam <br/> 📖 Borins <br/> 📄 Waldo <br/>  📄 Golembiewski < br/> 📄 Kirlin <br/> 📄 Denhardt & Denhardt (2000)                     |
-| 10/3  |                         [Organized Interests and the Political Economy](booklist.qmd#political-economy)                         |  |              📖 Downs <br/> 📖 Olson <br/> 📖 Niskanen <br/> 📖 Lowi <br/> 📖 Moe (1980) <br/> 📖 Rourke <br/> 📖 Einstein, Glick, & Palmer             |
-| 10/10 |                 Fall Break                  |             |                                                                                        |
-| 10/17 |                  [Public Organizations: Role, Responsibility, and Power, Part I](booklist.qmd#responsibility1)                   |    [📅](#outline)     |      📖 West <br/> 📖 Ostrom <br/> 📖 Goodsell <br/> 📄 Moe (1989)                           |
-| 10/24 | [Public Organizations: Role, Responsibility, and Power, Part II](booklist.qmd#responsibility2) |          |                  📖 Aberbach & Rockman <br/> 📖 Brehm & Gates <br/> 📖 Carpenter <br/> 📖 Peters <br/> 📖 Herd & Moynihan                   |
-| 10/31  |        Political Control of the Bureaucracy         |   |  📄 McCubbins, Noll, & Weingast (1987) <br/> 📄 Calvert, McCubbins, & Weingast (1989) <br/> 📄 Wood & Cook <br/> 📄 Banks & Weingast <br/> 📄 Moe (1995) <br/> 📄 Waterman, Rouse, & Wright <br/> 📄 Balla <br/> 📄 Huber, Shipman, & Pfahler <br/> 📄 Moe (2006)                                                   |
-| 11/7 |                     [The "Public" in Public Administration](booklist.qmd#public1)       |  |      📖 Kettle <br/> 📖 Meier & O'Toole <br/> 📄 Appleby <br/> 📄 Mintzberg <br/> 📄 Box et al. <br/> 📄 Adams <br/> 📄 Bingham, Nabatchi, & O' Leary <br/> 📄 Boyte <br/> 📄 Berry <br/> 📄 Bradbury & Kellough       |
-| 11/14 |             [What is Public? What is Private?](booklist.qmd#public2)             |      [📅](#draft1)       |     📖 Seidman <br/> 📖 Moore <br/> 📖 Bozeman (2007) <br/> 📖 Frederickson (2010)  <br/> 📄 Stone & Ostrower                                         |
-| 11/21 |                         Thanksgiving Break                          |             |                                                                                        |
-| 11/28 |             [Public Administrators as Public Servants](booklist.qmd#service)             |       [📅](#reviews)      |     📖 Mosher <br/> 📖 Frederickson (1997) <br/> 📖 Rohr (2002) <br/> 📖 Light <br/> 📄 Perry & Wise <br/> 📄 Stivers <br/> 📄 DiIulio & DiIulio <br/> 📄 Stever                                         |
-| 12/9 |                           Final Paper Turn-In                           |     [📅](#finalpaper)      |                                                                                        |
-
+| 8/22  |                                        Intro to course                                         |                   |                                                                                                                                                                                                                                                                  |
+| 8/29  |                           Theory and Craft in Public Administration                            |                   |                                                     📄 Whetten <br/> 📄 Sutton and Staw <br/> 📄 Merton <br/> 📄 Bozeman <br/> 📄 Dubnick <br/> 📄 Kelman et al. <br/> 📄 Davis and Stazyk <br/> 📄 Denhardt                                                     |
+|  9/5  |            [The Study of Politics and Administration](booklist.qmd#politics-admin)             |                   |                                                    📖 Sandel <br/> 📖 Dewey <br/> 📖 Durant <br/> 📖 Goodnow <br/> 📖 March and Olsen (1989) <br/> 📄 Wilson <br/> 📄 Friedrich <br/> 📄 Finer <br/> 📄 Long                                                     |
+| 9/12  |    [The Constitutional Basis of Public Administration, Part I](booklist.qmd#constitution1)     |                   |                                                                         📖 Skowronek <br/> 📖 Rohr <br/> 📖 Bartelli and Lynn <br/> 📖 Peterson <br/> 📖 Resh <br/> 📖 Feeley and Rubin                                                                          |
+| 9/19  |                   The Constitutional Basis of Public Administration, Part II                   |                   |                                                                 📄 Rosenbloom <br/> 📄 O'Toole <br/> 📄 Heady <br/> 📄 Green <br/> 📄 Moe and Gilmour <br/> 📄 Wise and O'Leary <br/> 📄 Catlaw                                                                  |
+| 9/26  |              [Democracy and Public Administration](booklist.qmd#democracy-admin)               |                   |                                                      📖 Redford <br/> 📖 Yates <br/> 📖 Putnam <br/> 📖 Borins <br/> 📄 Waldo <br/> 📄 Golembiewski <br/> 📄 Kirlin <br/> 📄 Denhardt & Denhardt (2000)                                                       |
+| 10/3  |        [Organized Interests and the Political Economy](booklist.qmd#political-economy)         |                   |                                                                  📖 Downs <br/> 📖 Olson <br/> 📖 Niskanen <br/> 📖 Lowi <br/> 📖 Moe (1980) <br/> 📖 Rourke <br/> 📖 Einstein, Glick, & Palmer                                                                  |
+| 10/10 |                                           Fall Break                                           |                   |                                                                                                                                                                                                                                                                  |
+| 10/17 | [Public Organizations: Role, Responsibility, and Power, Part I](booklist.qmd#responsibility1)  |    |                                                                                                  📖 West <br/> 📖 Ostrom <br/> 📖 Goodsell <br/> 📄 Moe (1989)                                                                                                   |
+| 10/24 | [Public Organizations: Role, Responsibility, and Power, Part II](booklist.qmd#responsibility2) |         [📅](#outline)           |                                                                             📖 Aberbach & Rockman <br/> 📖 Brehm & Gates <br/> 📖 Carpenter <br/> 📖 Peters <br/> 📖 Herd & Moynihan                                                                             |
+| 10/31 |                              Political Control of the Bureaucracy                              |                   | 📄 McCubbins, Noll, & Weingast (1987) <br/> 📄 Calvert, McCubbins, & Weingast (1989) <br/> 📄 Wood & Cook <br/> 📄 Banks & Weingast <br/> 📄 Moe (1995) <br/> 📄 Waterman, Rouse, & Wright <br/> 📄 Balla <br/> 📄 Huber, Shipman, & Pfahler <br/> 📄 Moe (2006) |
+| 11/7  |                 [The "Public" in Public Administration](booklist.qmd#public1)                  |                   |                           📖 Kettle <br/> 📖 Meier & O'Toole <br/> 📄 Appleby <br/> 📄 Mintzberg <br/> 📄 Box et al. <br/> 📄 Adams <br/> 📄 Bingham, Nabatchi, & O' Leary <br/> 📄 Boyte <br/> 📄 Berry <br/> 📄 Bradbury & Kellough                            |
+| 11/14 |                    [What is Public? What is Private?](booklist.qmd#public2)                    |   [📅](#draft1)   |                                                                             📖 Seidman <br/> 📖 Moore <br/> 📖 Bozeman (2007) <br/> 📖 Frederickson (2010) <br/> 📄 Stone & Ostrower                                                                             |
+| 11/21 |                                       Thanksgiving Break                                       |                   |                                                                                                                                                                                                                                                                  |
+| 11/28 |                [Public Administrators as Public Servants](booklist.qmd#service)                |  [📅](#reviews)   |                                                   📖 Mosher <br/> 📖 Frederickson (1997) <br/> 📖 Rohr (2002) <br/> 📖 Light <br/> 📄 Perry & Wise <br/> 📄 Stivers <br/> 📄 DiIulio & DiIulio <br/> 📄 Stever                                                   |
+| 12/9  |                                      Final Paper Turn-In                                       | [📅](#finalpaper) |                                                                                                                                                                                                                                                                  |
 
 ### Final Paper Assignments
+
 #### Outline {#outline}
-To ensure students are on track, students are required to submit a two-page summary of their proposed paper by **October 17th** at midnight via Brightspace. The summary should include: a clear summary of the theories that will be drawn from in guiding the response to the chosen question, the thesis statement (and its corollaries) that will guide and organize the response, and a preliminary list of the literature that will inform the paper. I will not accept late submissions of summaries. I will return summaries with feedback within 7 days after submission.
+
+To ensure students are on track, students are required to submit a two-page summary of their proposed paper by **October 24th** at midnight via Brightspace. The summary should include: a clear summary of the theories that will be drawn from in guiding the response to the chosen question, the thesis statement (and its corollaries) that will guide and organize the response, and a preliminary list of the literature that will inform the paper. I will not accept late submissions of summaries. I will return summaries with feedback within 7 days after submission.
 
 #### First Draft Due {#draft1}
+
 The first draft of the final paper will be submitted on November 14th by midnight through Brightspace. Note that this is two weeks before the final class. Each student will have two peer reviewers assigned to their papers. Reviewers will prepare referee reports for the author, which will be shared directly with authors and submitted to Brightspace.
 
 #### Reviews Due {#reviews}
+
 Submit directly to author and on Brightspace. Use referee reports to integrate feedback and prepare a response to each point raised by the peer reviewers. The response document will be submitted alongside final papers.
 
 #### Final Paper Due {#finalpaper}
+
 Submit final paper and response to reviewers document on Brightspace.
 
 ## Class Policies
@@ -164,6 +177,7 @@ Academic honesty is something your professor takes very seriously. Cheating in a
 
 ::: callout-important
 ## ChatGPT and Other LLMs
+
 By now, we are all aware of the technological advances in generative large language models (LLMs) trained on large quantities of written language scraped from around the internet. The University policy considers the use of ChatGPT and other generative LLMs to produce classwork without explicit permission from the instructor an act of plagiarism. I do not permit the use of ChatGPT or other generative LLMs in this course. First, generative LLMs can at times invent fictional sources, recombine information that is confidently stated but ultimately incorrect, and can produce generally mediocre and formulaic writing. Such events make the output unreliable - particularly for people aiming to be professionals working in the institutions that govern our society. Second, and more importantly, grappling with complicated trade-offs, collecting and synthesizing complex information thoughtfully, and going through the process of articulating your decisions and the knowledge base that inform them is a large part of an effective professional career. Learning in general is an arduous process that involves practice, trial and error, and confronting your current limits before finding ways to overcome them. In short, learning is work and the process by which that work occurs is often reading and writing, poorly at first and much better over time. I do think that, properly understood, LLMs can be a useful tool in managing routine tasks in which you have mastered the background, can detect and correct errors, and can use such tools effectively. However, early in your careers and in your academic lives, the very purpose of being in a graduate program is to have opportunities to learn new things (or old things in new ways) and using an LLM to do the work involved in learning will only cheat you of opportunities to learn, grow, and develop deeper and more lasting skills. Finally, and more practically, if you are caught using LLMs to produce the work assigned in this class, the work will be given a 0 and you will be cited for plagiarism.
 :::
 
